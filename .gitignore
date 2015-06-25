@@ -2,6 +2,11 @@
 logs
 *.log
 
+.idea
+out
+.sonar
+.sonartmp
+
 # Runtime data
 pids
 *.pid
